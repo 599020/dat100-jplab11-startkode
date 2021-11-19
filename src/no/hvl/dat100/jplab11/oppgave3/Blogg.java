@@ -18,7 +18,7 @@ public class Blogg {
 	public int getAntall() {
 		throw new UnsupportedOperationException(TODO.method());
 	}
-	
+	//haha
 	public Innlegg[] getSamling() {
 		throw new UnsupportedOperationException(TODO.method());
 
